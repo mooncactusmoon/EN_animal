@@ -1,0 +1,30 @@
+html{
+    background-color: #dbdbdb;
+    box-sizing:border-box;
+}
+
+*,*:before , *:after{
+    box-sizing: inherit;
+}
+body{
+    font-size:90%;
+    font-family:Microsoft JhengHei;
+    
+}
+.main-title{
+    color:rgb(46, 46, 53);
+    text-shadow: 1px 1px white, -1px -1px #444;
+    margin: 10px 1px 25px 0;
+    padding: 5px auto;
+}
+.main-title-2{
+    color:rgb(9, 41, 99);
+    text-shadow: 1px 1px white, -1px -1px #444;
+    margin: 0;
+    text-align: center;
+}
+.main-p{
+    margin: 10px 5px 5px 20px auto;
+    padding: 5px auto;
+    font-size: 105%;
+}
